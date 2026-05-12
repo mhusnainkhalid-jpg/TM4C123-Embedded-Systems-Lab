@@ -13,23 +13,23 @@ ItemDetailMicrocontrollerTM4C123GH6PM (ARM Cortex-M4F, 80 MHz)BoardEK-TM4C123GXL
 
 📂 Repository Structure
 TM4C123-Embedded-Systems-Lab/
-│
-├── Experiments/
-│   ├── Exp01-C-Language-Constructs/
-│   ├── Exp02-TIVA-Launchpad-Keil-Setup/
-│   ├── Exp03-GPIO-Digital-IO/
-│   ├── Exp04-BOOSTXL-EDUMKII-Boosterpack/
-│   ├── Exp05-UART-Terminal/
-│   ├── Exp06-SSI-Master-Slave/
-│   ├── Exp07-Interrupts/
-│   ├── Exp08-ADC-Sensor-Interfacing/
-│   ├── Exp09-PWM/
-│   └── Exp11-SysTick-Timer-PLL/
-│
-├── Open-Ended-Lab/
-│   └── Exp10-Communication-Protocol/
-│
-└── Project/
+
+ Experiments/
+   Exp01-C-Language-Constructs/
+   Exp02-TIVA-Launchpad-Keil-Setup/
+   Exp03-GPIO-Digital-IO/
+   Exp04-BOOSTXL-EDUMKII-Boosterpack/
+   Exp05-UART-Terminal/
+   Exp06-SSI-Master-Slave/
+   Exp07-Interrupts/
+   Exp08-ADC-Sensor-Interfacing/
+   Exp09-PWM/
+   Exp11-SysTick-Timer-PLL/
+
+ Open-Ended-Lab/
+  Exp10-Communication-Protocol/
+
+  Project/
 Each experiment folder contains:
 
 📄 Report.pdf — Lab report with questions, answers & results
